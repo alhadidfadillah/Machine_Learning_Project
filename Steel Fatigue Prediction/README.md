@@ -1,7 +1,7 @@
 
-# Steel Fatigue Strenght Prediction using Machine Learning Model
+# Steel Fatigue Strength Prediction using Machine Learning Model
 
-Pemodelan ini memprediksi kekuatan lelah baja (*Steel Fatigue Strenght*) yang dipengaruhi oleh beberapa faktor seperti komposisi unsur kimia, suhu, dan kekerasan baja dengan menggunakan *machine learning*.
+Pemodelan ini memprediksi kekuatan lelah baja (*Steel Fatigue Strength*) yang dipengaruhi oleh beberapa faktor seperti komposisi unsur kimia, suhu, dan kekerasan baja dengan menggunakan *machine learning*.
 
 
 ## Dataset
